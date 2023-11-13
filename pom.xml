@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>io.sandboxdev</groupId>
-    <artifactId>logging-service</artifactId>
+    <artifactId>jot-log4j2/artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>logging-service</name>
-    <description>logging-service</description>
+    <name>jot-log4j2/name>
+    <description>cross-cutting logging-service</description>
     <properties>
         <java.version>17</java.version>
     </properties>
